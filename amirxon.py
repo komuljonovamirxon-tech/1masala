@@ -1,6 +1,6 @@
-#ism = "maqsadbek"
-#for x in range(1,len(ism)+1):
-#    print(f"{x}: {ism[x-1]}")
+# ism = "maqsadbek"
+# for x in range(1,len(ism)+1):
+#     print(f"{x}: {ism[x-1]}")
 
 # dost = ("davlat","ozod", "murod","odom", "davlat2", "bekki","roma","asad","ibo","hasan")
 # for salom in dost:
@@ -26,4 +26,5 @@
 #         print("sammakim",salom)
 #     else:
 #         print("notanish")
+
 
